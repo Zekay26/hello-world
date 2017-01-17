@@ -8,3 +8,5 @@ I am here because I am determined to become something. I have something to contr
 Now I need to add a section explaining what I will do with my career.
 The kinds of problems I want to solve are massive, but as long as they go hand in hand with a  machine learning approach,
 everything is fine. 
+
+Additionall I will launch a youtube channle that will include liquid nitrogen as the main source of entertainment. 
